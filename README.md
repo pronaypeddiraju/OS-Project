@@ -34,4 +34,4 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-    You just DO WHAT THE FUCK YOU WANT TO.
+    0. You just DO WHAT THE FUCK YOU WANT TO.
